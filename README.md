@@ -1,4 +1,3 @@
-```markdown
 # Little Lemon Restaurant
 
 Welcome to the Little Lemon Restaurant repository! This project showcases a modern and interactive website for a family-owned Mediterranean restaurant based in Chicago, Illinois.
